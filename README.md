@@ -1,6 +1,7 @@
 <header>
 
-<!--
+<!--![repository-open-graph-template](https://github.com/mithun356/skills-copilot-codespaces-vscode/assets/139801299/d1e9cdb7-56c8-40f0-b615-0e86ea321aca)
+
   <<< Author notes: Course header >>>
   Read <https://skills.github.com/quickstart> for more information about how to build courses using this template.
   Include a 1280×640 image, course name in sentence case, and a concise description in emphasis.
